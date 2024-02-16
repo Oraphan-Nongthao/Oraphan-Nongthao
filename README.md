@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oraphan Nongthao
 ========================================================================================================================================
 
-Student - Bangkok University
-Faculty of Engineering 
-Computer and Robotics Engineering
+Student - Bangkok University | Faculty of Engineering 
+| Computer and Robotics Engineering
 -------------------------------------------------------------------------------------
 
 I'm Interested in the field of web design and development and want to learn more about it. Capable of handling pressure and working in a team environment
