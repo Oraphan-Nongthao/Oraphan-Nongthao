@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oraphan Nongthao
 ========================================================================================================================================
 
-Student - Bangkok University | Faculty of Engineering 
+Student - Bangkok University | Bachelor of Engineering
 | Computer and Robotics Engineering
 -------------------------------------------------------------------------------------
 
