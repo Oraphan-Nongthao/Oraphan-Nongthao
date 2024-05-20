@@ -5,10 +5,9 @@ Student - Bangkok University | Bachelor of Engineering
 | Computer and Robotics Engineering
 -------------------------------------------------------------------------------------
 
-I'm Interested in the field of web design and development  and wanted to learn more about it. Capable of handling pressure and working in a team environment 
-presently looking to become an intern for full-stack developer.
+I'm Interested in the field of web design and development and wanted to learn more about it. Capable of handling pressure and working in a team environment 
+presently looking to become an intern for a full-stack developer.
 
-* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [Oraphan.nongt@gmail.com](mailto:Oraphan.nongt@gmail.com)
 
 <a href="https://www.github.com/Oraphan-Nongthao" target="_blank" rel="noreferrer"><img
