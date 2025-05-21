@@ -5,8 +5,7 @@ Student - Bangkok University | Bachelor of Engineering
 | Computer and Robotics Engineering
 -------------------------------------------------------------------------------------
 
-I'm Interested in the field of web design and development and wanted to learn more about it. Capable of handling pressure and working in a team environment 
-presently looking to become an intern for a full-stack developer.
+A highly motivated and detail-oriented Computer Engineering and Robotics student at Bangkok University, with a strong passion for backend development. Completed a 6-month internship at Codesmash, gaining hands-on experience in database design, API development, and integrating RESTful services. Proficient in Node.js, Express.js, MySQL, and Axios for building scalable and maintainable backend systems. Known for the ability to perform well under pressure, collaborate effectively in team settings, and consistently pursue opportunities to expand technical expertise. Eager to contribute to real-world backend development projects in a professional environment.
 
 * ✉️  You can contact me at [Oraphan.nongt@gmail.com](mailto:Oraphan.nongt@gmail.com)
 
