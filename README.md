@@ -2,11 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 **Backend Engineer | Computer Engineering & Robotics Graduate**
-
-<p>🚀 6-month Internship @ CodeSmash: Developed production-ready RESTful APIs & optimized relational databases.</p>
-<p>💡 Focus: Building robust, scalable, and high-performance backend systems.</p>
-<p>🤝 Work Style: Proactive problem-solver & Agile enthusiast.</p>
-
+<p>🚀 6-month Internship @ CodeSmash: RESTful APIs & DB Optimization.</p>
+<p>🤝Currently open to new backend opportunities and ready to contribute to Agile teams.</p>
 
 * ✉️ Contact me: [oraphan.nongt@gmail.com](mailto:oraphan.nongt@gmail.com)
 
