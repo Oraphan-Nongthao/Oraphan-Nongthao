@@ -1,9 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oraphan Nongthao
 =========================================================================================================================================
 
-## Backend Developer
+**Backend Engineer | Computer Engineering & Robotics Graduate**
 
-I enjoy building efficient backend systems and working with databases. Currently exploring System Design to improve how I build and deploy applications.
+<p>🚀 6-month Internship @ CodeSmash: Developed production-ready RESTful APIs & optimized relational databases.</p>
+<p>💡 Focus: Building robust, scalable, and high-performance backend systems.</p>
+<p>🤝 Work Style: Proactive problem-solver & Agile enthusiast.</p>
+
 
 * ✉️ Contact me: [oraphan.nongt@gmail.com](mailto:oraphan.nongt@gmail.com)
 
