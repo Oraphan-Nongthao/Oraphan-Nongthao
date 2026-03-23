@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oraphan Nongthao
 =========================================================================================================================================
 
-**Backend Engineer | Computer Engineering & Robotics Graduate**
+**Backend Developer | Computer Engineering & Robotics Graduate**
 <p>🚀 6-month Internship @ CodeSmash: RESTful APIs & DB Optimization.</p>
 <p>🤝Currently open to new backend opportunities and ready to contribute to Agile teams.</p>
 
